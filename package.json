@@ -1,0 +1,21 @@
+{
+  "name": "Tech_Blog_v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shonhatcher/Tech_Blog_v2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shonhatcher/Tech_Blog_v2/issues"
+  },
+  "homepage": "https://github.com/shonhatcher/Tech_Blog_v2#readme"
+}
